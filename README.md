@@ -1,8 +1,7 @@
 # Alt-Text-Generator
+This lightweight tool allows you to quickly populate alt text for selected images using their existing titles or descriptions — all in just a few clicks.
 
-
-=== Alt Text Generator ===
-Contributors: yourusername  
+Contributors: majeed-ali  
 Tags: alt text, accessibility, SEO, media, image alt, image optimization  
 Requires at least: 5.0  
 Tested up to: 6.5  
