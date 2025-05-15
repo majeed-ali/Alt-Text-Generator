@@ -1,5 +1,4 @@
 # Alt-Text-Generator
-This lightweight tool allows you to quickly populate alt text for selected images using their existing titles or descriptions — all in just a few clicks.
 
 Contributors: majeed-ali  
 Tags: alt text, accessibility, SEO, media, image alt, image optimization  
@@ -10,6 +9,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later  
 License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
+This lightweight tool allows you to quickly populate alt text for selected images using their existing titles or descriptions — all in just a few clicks.
 A simple plugin to quickly add alt text to your images using their title or description. Improve accessibility and SEO in just a few clicks—no automation, no guesswork.
 
 == Description ==
