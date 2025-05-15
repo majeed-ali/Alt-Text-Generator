@@ -1,4 +1,4 @@
-# Alt-Text-Generator
+# Alt-Text-Generator Plugin for Wordpress
 
 Contributors: majeed-ali  
 Tags: alt text, accessibility, SEO, media, image alt, image optimization  
@@ -15,7 +15,7 @@ A simple plugin to quickly add alt text to your images using their title or desc
 
 == Description ==
 
-**Manual Alt Text Generator** helps you create alt text for your media library images using their existing **title** or **description**.
+**Alt Text Generator** helps you create alt text for your media library images using their existing **title** or **description**.
 
 This plugin is perfect for users who want to ensure accessibility and SEO best practices are met, without relying on AI or external services. It's a simple, effective tool for managing image alt text manually — at scale.
 
